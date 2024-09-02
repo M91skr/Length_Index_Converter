@@ -14,12 +14,3 @@ run following:
 ```bash
 python main.py
 ```
-
-## How to deploy
-
-You need to have docker installed on your machine. you can easily deploy the service with executing
-the following command in your terminal:
-
-```bash
-docker-compose up -d --build
-```
